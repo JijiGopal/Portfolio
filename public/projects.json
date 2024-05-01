@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "FinCorp",
+      "category": "Web development",
+      "image": "images/project-1.png",
+      "url" : "https://fincorp.org"
+    },
+    {
+      "id": 2,
+      "title": "E-Commerce Website",
+      "category": "Web development",
+      "image": "images/project-4.png",
+      "url" : "https://github.com/JijiGopal/fullstack-eCommerce-app"
+    },
+    {
+      "id": 3,
+      "title": "Single Page Movie Reference Website",
+      "category": "Web development",
+      "image": "images/project-2.png",
+      "url" : "https://github.com/JijiGopal/singlePage-movie-webApplication"
+    },
+    {
+      "id": 4,
+      "title": "Feadback Feature web design",
+      "category": "Web design",
+      "image": "images/project-3.png",
+      "url" : "https://github.com/JijiGopal/feedback-feature-LP-task"
+    }
+  ]
+  
