@@ -7,7 +7,7 @@ import Service from "./Service";
 const servicesData = [
    
   {
-    icon: "images/icon-dev.svg",
+    icon: "/images/icon-dev.svg",
     title: "Web development",
     description: "High-quality development of sites at the professional level."
   } 
